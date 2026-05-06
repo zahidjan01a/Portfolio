@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  <circle cx="256" cy="188" r="88" fill="url(#avatar)"/>
+  <path d="M104 430C104 351 168 287 247 287H265C344 287 408 351 408 430V448H104V430Z" fill="url(#avatar)"/>
+  <text x="256" y="486" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#C7D5FF">Add Your Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="26" y1="35" x2="480" y2="483" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1128"/>
+      <stop offset="1" stop-color="#281B62"/>
+    </linearGradient>
+    <linearGradient id="avatar" x1="147" y1="95" x2="369" y2="387" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67B3FF"/>
+      <stop offset="1" stop-color="#8A72FF"/>
+    </linearGradient>
+  </defs>
+</svg>
