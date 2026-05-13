@@ -8,7 +8,7 @@ function About() {
         <SectionTitle
           eyebrow="About Me"
           title="Research-oriented AI engineer with deployment focus"
-          subtitle="An academic and professional profile aligned with graduate study and industry impact."
+          // subtitle="An academic and professional profile aligned with graduate study and industry impact."
         />
         <div className="glass-card about-card reveal">
           <p>{aboutSummary}</p>
